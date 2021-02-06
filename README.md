@@ -1,6 +1,6 @@
 # docker-tomcat85-java8
 
-Este repositorio se encarga de servir como estructura de recursos utilizados para los artículos publicados en la plataforma enmilocalfunciona.io relacionados con el uso de contenedores para acelerar los desarrollos
+Este repositorio sirve para instalar un contedor docker tomcat 8.5 y la versión de java 8.
 
 ## Stack Tecnológico
 
@@ -42,8 +42,3 @@ $ sudo chmod +x /usr/local/bin/docker-compose
 $ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 
 ```
-
-
-
-
-
