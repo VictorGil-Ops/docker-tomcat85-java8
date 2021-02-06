@@ -3,14 +3,16 @@
 Este repositorio se encarga de servir como estructura de recursos utilizados para los artículos publicados en la plataforma enmilocalfunciona.io relacionados con el uso de contenedores para acelerar los desarrollos
 
 ## Stack Tecnológico
-Java 8
-Docker - Tecnología de Contenedores/Containers
-Docker Hub - Repositorio de Docker Publico
+
+- Java 8
+- Docker - Tecnología de Contenedores/Containers
+- Docker Hub - Repositorio de Docker Publico
 
 ## Prerequisitos
-Java 8 instalado (1.5+ version requerido)
-Docker instalado (19+)
-Docker-Compose
+
+- Java 8 instalado (1.5+ version requerido)
+- Docker instalado (19+)
+- Docker-Compose
 
 ## Instalación de JAVA 8
 
