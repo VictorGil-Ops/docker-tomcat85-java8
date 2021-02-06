@@ -18,7 +18,9 @@ Este repositorio se encarga de servir como estructura de recursos utilizados par
 
 ### CENTOS 8
 
-
+```bash
+yum install java-1.8.0-openjdk
+```
 
 
 
