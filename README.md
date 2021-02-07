@@ -14,9 +14,9 @@ Este repositorio sirve para instalar un contedor docker tomcat 8.5 y la versión
 - Docker instalado (19+)
 - Docker-Compose
 
-## Instalación de JAVA 8
+## Instalación en CENTOS 8
 
-### CENTOS 8
+### Instalación de JAVA 8
 
 ```bash
 
@@ -30,11 +30,11 @@ $ sudo source ~/.bash_profile
 
 ```
 
-## Instalación de Docker
+### Instalación de Docker
 
 - Guía Oficial: https://docs.docker.com/engine/install/centos/
 
-## Instalación Docker-Compose
+### Instalación Docker-Compose
 
 ```
 $ sudo curl -L "https://github.com/docker/compose/releases/download/1.28.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
@@ -43,9 +43,10 @@ $ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 
 ```
 
-## Lanzar contendor con docker-compose
+### Lanzar contendor con docker-compose
+
+Desde la ubicación de docker-compose.yaml
 
 ```
 $ docker-compose up -d 
-
-''' 
+``` 
