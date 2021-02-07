@@ -42,7 +42,7 @@ $ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 Desde la ubicación de docker-compose.yaml
 
 ```bash
-$ docker-compose up -d 
+$ docker-compose up --build -d
 ``` 
 
 ## Instalación en UBUNTU 18
@@ -75,5 +75,5 @@ $ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 Desde la ubicación de docker-compose.yaml
 
 ```bash
-$ docker-compose up -d 
+$ docker-compose up --build -d
 ``` 
