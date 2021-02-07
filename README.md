@@ -12,7 +12,7 @@ Este repositorio sirve para instalar un contedor docker tomcat 8.5 y la versión
 
 - Java 8 instalado (1.5+ version requerido)
 - Docker instalado (19+)
-- Docker-Compose
+- Docker-Compose (1.28+)
 
 ## Instalación en CENTOS 8
 
